@@ -1,6 +1,6 @@
 # SAURAV GUPTA
-##### Contact No: +91 8851994108
-##### sauravgupta02oct@gmail.com
+#### Contact No: +91 8851994108
+#### sauravgupta02oct@gmail.com
 
 ##### About Me
 Since beginning my journey as Web Developer nearly 2 Years ago. I’ve done remote work for agencies, consulted for start-up and collaborated with talented people to create digital products for both Business and Consumer use.
