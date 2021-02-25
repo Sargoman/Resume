@@ -3,16 +3,16 @@
 #### Email: sauravgupta02oct@gmail.com
 
 
-#### About Me
+### About Me
 Since beginning my journey as Web Developer nearly 2 Years ago. I’ve done remote work for agencies, consulted for start-up and collaborated with talented people to create digital products for both Business and Consumer use.
 
-#### Objective
+### Objective
 To build my career with the organization that will treat my skills and abilities as an asset and always willing to improve skills in order to achieve individual and organizational goals.
 
-#### Professional Experience Summary
+### Professional Experience Summary
 Having 2 years of IT industry experience in Website Development. I’ve one-year experience as Web developer in Synk Synergy Pvt. Ltd (Sept 2018 to Sept 2019). 1 Year experience as Process Associate in Compotent Software Pvt. Ltd (Jan 2017 to Jan 2018). 
 
-#### Technical Skills
+### Technical Skills
 
 * Expertise in managing full life cycle of Data Science project includes transforming business requirements into Data Collection, Data Cleaning, Data Preparation, Data Validation, Data Mining, and Data. Visualization from structured and unstructured Data Sources.
 *	Hands on experience of statistical modeling techniques such as: linear regression, Lasso regression, logistic regression, ANOVA, clustering analysis, principle component analysis.
@@ -33,7 +33,7 @@ Having 2 years of IT industry experience in Website Development. I’ve one-year
 
 
 
-#### Technical Exposure
+### Technical Exposure
 
 *	Pandas, NumPy, SciPy, Scikit: Learn, NLTK, Spacy, matplotlib, Seaborn, Beautiful Soup, Logging, Pyspark, Keras and Tensor Flow.
 *	Machine Learning: Linear Regression, Logistic Regression, Multinomial logistic regression, Regularization (Lasso & Ridge), Decision trees, Support Vector Machines, Ensembles - Random Forest, Gradient Boosting, X treme Gradient Boosting(XGBM), Deep Learning - Neural Networks, Deep Neural Networks(CNN & RNN with Keras and Tensor flow, Dimensionality Reduction- Principal Component Analysis(PCA), and Information Value, Hierarchical & K-means clustering, K-Nearest Neighbors.
@@ -48,12 +48,12 @@ Having 2 years of IT industry experience in Website Development. I’ve one-year
 *	Having skill in Adobe photoshop, Adobe After effect, Filmora, Canva, Photopia.
 *	Having skill in designing (UI&UX of APP, Brand Logo, Banner & Poster, Brochure, Business Proposal, Flyer)
 
-#### Work Experience 
+### Work Experience 
 *	Having 1 year experience as Website Development in Synk Synergy Pvt. Ltd.
 *	Having 1 year experience as Process Analysist in Compotent Software Pvt. Ltd.
 *	And I’ve done remote work for companies(Conexyms Global Pvt. Ltd., Newage Laboratories Limited, Seam Global Consultant, Battery Point, Reliable Mobile Accessories Pvt. Ltd.) & consulted for start up.
 
-#### Academic Record
+### Academic Record
 BCA from IGNOU Delhi (2019) with 61%.
 
 ### Project Details
@@ -163,20 +163,20 @@ This is a blogging website which have an idea to bring traffic through blogs. Lo
 *	All social media marketing.
 *	Configuration with Google search console, Google analytics and Google AdSense.
 
-#### There are lot more Short Term Project like
+### There are lot more Short Term Project like
 *	Modification of website for Seam Global Consultant.
 *	Digital Marketing for Reliable Mobile Accessories Pvt. Ltd and also deliver Business Consultant service.
 *	Digital Marketing for VR MEGA MART and also create website for VR MEGA MART i.e. www.vrmegamart.com 
 *	Brand Logo for SRK mobile accessories.
 
-#### Achievements
+### Achievements
 * Employee of the Month (NOV 2018) in Synk Synergy Pvt. Ltd. For my outstanding performance in web development i certified as Employee of the Month in Synk Synergy Pvt. Ltd.
 
 * Remarkable proficiency and accuracy in Compotent Software Pvt. Ltd (98% above) While working in Compotent Software Pvt. Ltd., My performance was outstanding and it was above 98%.
 
 * Working as IT Head for Conexsym Global Pvt. Ltd. I was started my journey with Conexsym Global Pvt. Ltd. in August 2019 as basic designer, After showing my excellence in Web Development, Digital Marketing and having good understanding & relationship with Company's directors i get appointed for IT Head of Conexsym Global Pvt. Ltd.
 
-#### Extra-Curricular Activities
+### Extra-Curricular Activities
 ##### Covid-19 Data representation
 Due to pandemic situation in the world every people are getting afraid. To provide real data among such people i created a website called covid-19.buzspeed.com. This website also contains information and instruction from WHO to protect yourself from Corona virus.
 
@@ -189,8 +189,8 @@ Providing complete IT Solution for I AM WITH YOU FOUNDATION (www.imwithu.in) for
 ##### Conducting Sales & Marketing training in Reliable Mobile Accessories Pvt. Ltd. (2019)
 I trained Company's associates in the field of Sales & Marketing. I explained how to use digital platform to increase sales & marketing.
 
-##### DECLARATION:
+#### DECLARATION:
 I hereby declare that the particulars furnished above are true to the best of my knowledge and belief.
 
-##### Yours faithfully,
-#### SAURAV GUPTA
+#### Yours faithfully,
+### SAURAV GUPTA
