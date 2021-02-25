@@ -57,7 +57,7 @@ Having 2 years of IT industry experience in Website Development. I’ve one-year
 BCA from IGNOU Delhi (2019) with 61%.
 
 ### Project Details
-#### Project #1
+#### Project 1
 ##### Title : https://github.com/Sargoman/Talkative-Demo (Talkative)
 ##### Deploy at Google Cloud: https://glassy-groove-287908.df.r.appspot.com
 ##### Role : Software Engineer
@@ -78,7 +78,7 @@ This is a real time chat application with the help of socket.io. This applicatio
 *	Create the client sending message logic in client.js
 *	Receive message on server and broadcast to all clients.
 
-##### Project #2
+##### Project 2
 ##### Title : https://github.com/Sargoman/Timmer (Timmer)
 ##### Role : Software Engineer
 ##### Code Editor : Visual Studio Code (VS code)
@@ -94,7 +94,7 @@ This is a Timmer application where user can insert the time and the countdown st
 *	Set the logic for the Timmer in timmer.js.
 *	Refactor the code.
 
-##### Project #3
+##### Project 3
 ##### Title : www.conexsym.com (website development & Digital Marketing)
 ##### Client : Conexsym Global Pvt. Ltd.
 ##### Role : Head of IT department
@@ -113,7 +113,7 @@ This website covers all the information about the conferences and events organiz
 *	Do SEO of www.conexsym.com.
 *	Generate traffic report from Google Analytics.
 
-##### Project #4
+##### Project 4
 ##### Title : thenewage.in (website development & Android app)
 ##### Client : NEWAGE LABORATORIES LIMITED
 ##### Role : Head of IT department
@@ -131,7 +131,7 @@ This is an ecommerce website which contain various covid-19 products like saniti
 *	Order confirmation and delivery status.
 *	Automatic order delivering mail to consumer as well as to admin.
 
-##### Project #5
+##### Project 5
 ##### Title : covid-19.buzspeed.com (website development & Android app)
 ##### Client : BuZspeed
 ##### Role : Founder of BuZspeed
@@ -146,7 +146,7 @@ This is most recent project which contain all the updates of Novel Covid-19 info
 *	Create the Connect us Form with automation reply.
 *	Create the revolving Creep Data of Covid-19 at the bottom of the website.
 
-##### Project #6
+##### Project 6
 ##### Title : buzspeed.com (website development & Android app)
 ##### Client : BuZspeed
 ##### Role : Founder of BuZspeed
