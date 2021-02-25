@@ -56,6 +56,9 @@ Having 2 years of IT industry experience in Website Development. I’ve one-year
 ### Academic Record
 BCA from IGNOU Delhi (2019) with 61%.
 
+### Certification Course
+__Data Science using Python & R Programming__ from __360DigiTMG__.
+
 ### Project Details
 #### Project 1
 ##### Title : https://github.com/Sargoman/Talkative-Demo (Talkative)
