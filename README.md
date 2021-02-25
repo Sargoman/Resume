@@ -1,15 +1,16 @@
 # SAURAV GUPTA
-#### Contact No: +91 8851994108
-#### sauravgupta02oct@gmail.com
+#### Contact No: +91 8851994108  
+#### Email: sauravgupta02oct@gmail.com
+
 
 ##### About Me
 Since beginning my journey as Web Developer nearly 2 Years ago. I’ve done remote work for agencies, consulted for start-up and collaborated with talented people to create digital products for both Business and Consumer use.
-Objective
+
+##### Objective
 To build my career with the organization that will treat my skills and abilities as an asset and always willing to improve skills in order to achieve individual and organizational goals.
 
 ##### Professional Experience Summary
-Having 2 years of IT industry experience in Website Development.
-I’ve one-year experience as Web developer in Synk Synergy Pvt. Ltd (Sept 2018 to Sept 2019). 1 Year experience as Process Associate in Compotent Software Pvt. Ltd (Jan 2017 to Jan 2018). 
+Having 2 years of IT industry experience in Website Development. I’ve one-year experience as Web developer in Synk Synergy Pvt. Ltd (Sept 2018 to Sept 2019). 1 Year experience as Process Associate in Compotent Software Pvt. Ltd (Jan 2017 to Jan 2018). 
 
 ##### Technical Skills
 
@@ -34,29 +35,31 @@ I’ve one-year experience as Web developer in Synk Synergy Pvt. Ltd (Sept 2018 
 
 ##### Technical Exposure
 
-	Pandas, NumPy, SciPy, Scikit: Learn, NLTK, Spacy, matplotlib, Seaborn, Beautiful Soup, Logging, Pyspark, Keras and Tensor Flow.
-	Machine Learning: Linear Regression, Logistic Regression, Multinomial logistic regression, Regularization (Lasso & Ridge), Decision trees, Support Vector Machines, Ensembles - Random Forest, Gradient Boosting, X treme Gradient Boosting(XGBM), Deep Learning - Neural Networks, Deep Neural Networks(CNN & RNN with Keras and Tensor flow, Dimensionality Reduction- Principal Component Analysis(PCA), and Information Value, Hierarchical & K-means clustering, K-Nearest Neighbors.
-	Cloud Technologies: Google cloud.
-	Data Visualization: Google Analytics
-	Text Pre: Processing, Information Retrieval, Classification, Topic Modeling, Text Clustering and Sentiment Analysis.
-	Big Data Tools: HIVE and HDFS
-	Tools: Sublime, Microsoft Visual Code. Jupyter Notebook, Turbo C++, Spyder
-	Language: C,C++, Basic Java, JavaScript, HTML, Node.js, Python.
-	Database: MongoDB, MySQL.
-	Having experience in Website Development.
-	Having skill in Adobe photoshop, Adobe After effect, Filmora, Canva, Photopia.
-	Having skill in designing (UI&UX of APP, Brand Logo, Banner & Poster, Brochure, Business Proposal, Flyer)
+*	Pandas, NumPy, SciPy, Scikit: Learn, NLTK, Spacy, matplotlib, Seaborn, Beautiful Soup, Logging, Pyspark, Keras and Tensor Flow.
+*	Machine Learning: Linear Regression, Logistic Regression, Multinomial logistic regression, Regularization (Lasso & Ridge), Decision trees, Support Vector Machines, Ensembles - Random Forest, Gradient Boosting, X treme Gradient Boosting(XGBM), Deep Learning - Neural Networks, Deep Neural Networks(CNN & RNN with Keras and Tensor flow, Dimensionality Reduction- Principal Component Analysis(PCA), and Information Value, Hierarchical & K-means clustering, K-Nearest Neighbors.
+*	Cloud Technologies: Google cloud.
+*	Data Visualization: Google Analytics
+*	Text Pre: Processing, Information Retrieval, Classification, Topic Modeling, Text Clustering and Sentiment Analysis.
+*	Big Data Tools: HIVE and HDFS
+*	Tools: Sublime, Microsoft Visual Code. Jupyter Notebook, Turbo C++, Spyder
+*	Language: C,C++, Basic Java, JavaScript, HTML, Node.js, Python.
+*	Database: MongoDB, MySQL.
+*	Having experience in Website Development.
+*	Having skill in Adobe photoshop, Adobe After effect, Filmora, Canva, Photopia.
+*	Having skill in designing (UI&UX of APP, Brand Logo, Banner & Poster, Brochure, Business Proposal, Flyer)
 
 ##### Work Experience 
-•	Having 1 year experience as Website Development in Synk Synergy Pvt. Ltd.
-•	Having 1 year experience as Process Analysist in Compotent Software Pvt. Ltd.
-•	And I’ve done remote work for companies(Conexyms Global Pvt. Ltd., Newage Laboratories Limited, Seam Global Consultant, Battery Point, Reliable Mobile Accessories Pvt. Ltd.) & consulted for start up.
-Academic Record
+*	Having 1 year experience as Website Development in Synk Synergy Pvt. Ltd.
+*	Having 1 year experience as Process Analysist in Compotent Software Pvt. Ltd.
+*	And I’ve done remote work for companies(Conexyms Global Pvt. Ltd., Newage Laboratories Limited, Seam Global Consultant, Battery Point, Reliable Mobile Accessories Pvt. Ltd.) & consulted for start up.
+
+##### Academic Record
 BCA from IGNOU Delhi (2019) with 61%.
-Project Details
-##### Project #1
-Title : https://github.com/Sargoman/Talkative-Demo (Talkative)
-Deploy at Google Cloud: https://glassy-groove-287908.df.r.appspot.com
+
+### Project Details
+#### Project #1
+##### Title : https://github.com/Sargoman/Talkative-Demo (Talkative)
+##### Deploy at Google Cloud: https://glassy-groove-287908.df.r.appspot.com
 Role : Software Engineer
 Code Editor : Visual Studio Code (VS code)
 Runtime Environment: node.js
