@@ -58,6 +58,7 @@ BCA from IGNOU Delhi (2019) with 61%.
 
 ### Certification Course
 __Data Science using Python & R Programming__ from __360DigiTMG__.
+__Python for Data Science__ from __IBM__.
 
 ### Project Details
 #### Project 1
