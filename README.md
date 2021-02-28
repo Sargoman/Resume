@@ -57,8 +57,8 @@ Having 2 years of IT industry experience in Website Development. I’ve one-year
 BCA from IGNOU Delhi (2019) with 61%.
 
 ### Certification Course
-__Data Science using Python & R Programming__ from __360DigiTMG__.
-__Python for Data Science__ from __IBM__.
+* __Data Science using Python & R Programming__ from __360DigiTMG__.
+* __Python for Data Science__ from __IBM__.
 
 ### Project Details
 #### Project 1
